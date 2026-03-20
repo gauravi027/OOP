@@ -1,0 +1,373 @@
+1. Object Name: Mobile Phone
+
+State:
+
+Brand: Samsung
+
+Model: Galaxy S21
+
+Color: Black
+
+Storage: 128GB
+
+Battery: 4000mAh
+
+IMEI Number: 123456789012345
+
+Behavior:
+
+When I press power button, the phone turns on.
+
+When I tap an app, it opens.
+
+When battery is low, it shows warning.
+
+Identity:
+
+IMEI Number: 123456789012345
+
+Responsibility:
+
+Should turn on quickly.
+
+Should open apps smoothly.
+
+Should alert when battery is low.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Object Name: Car
+
+State:
+
+Brand: Hyundai
+
+Model: i20
+
+Color: White
+
+Fuel Type: Petrol
+
+Mileage: 18 km/l
+
+Registration No: MH12AB1234
+
+Behavior:
+
+When I start the engine, the car moves.
+
+When I press brake, it stops.
+
+When I accelerate, speed increases.
+
+Identity:
+
+Registration No: MH12AB1234
+
+Responsibility:
+
+Should start smoothly.
+
+Should stop safely.
+
+Should provide good mileage.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Object Name: Laptop
+
+State:
+
+Brand: HP
+
+RAM: 8GB
+
+Storage: 512GB SSD
+
+Processor: i5
+
+Color: Silver
+
+Serial No: HP12345LAP
+
+Behavior:
+
+When I press power button, it boots.
+
+When I type, it inputs data.
+
+When I shut down, it turns off.
+
+Identity:
+
+Serial No: HP12345LAP
+
+Responsibility:
+
+Should boot quickly.
+
+Should process tasks efficiently.
+
+Should shut down properly.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Object Name: Refrigerator
+
+State:
+
+Brand: LG
+
+Capacity: 260L
+
+Color: Grey
+
+Power: 220V
+
+Temperature: 4°C
+
+Serial No: LGREF123
+
+Behavior:
+
+When switched on, it cools food.
+
+When door opens, light turns on.
+
+When temp increases, compressor runs.
+
+Identity:
+
+Serial No: LGREF123
+
+Responsibility:
+
+Should maintain cooling.
+
+Should preserve food.
+
+Should consume less power.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. Object Name: ATM Machine
+
+State:
+
+Bank: SBI
+
+Location: Pune
+
+Cash Available: ₹5,00,000
+
+Machine ID: ATM12345
+
+Status: Active
+
+Behavior:
+
+When card is inserted, it reads details.
+
+When PIN is entered, it verifies.
+
+When withdraw selected, cash is dispensed.
+
+Identity:
+
+Machine ID: ATM12345
+
+Responsibility:
+
+Should verify user securely.
+
+Should dispense correct cash.
+
+Should update balance.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. Object Name: Book
+
+State:
+
+Title: Java Programming
+
+Author: XYZ
+
+Pages: 350
+
+Price: ₹500
+
+ISBN: 9781234567890
+
+Behavior:
+
+When opened, it shows content.
+
+When page flipped, next page appears.
+
+When bookmarked, saves page.
+
+Identity:
+
+ISBN: 9781234567890
+
+Responsibility:
+
+Should provide knowledge.
+
+Should be readable.
+
+Should maintain structure.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7. Object Name: Washing Machine
+
+State:
+
+Brand: Whirlpool
+
+Capacity: 7kg
+
+Type: Automatic
+
+Power: 230V
+
+Color: White
+
+Serial No: WM12345
+
+Behavior:
+
+When started, it washes clothes.
+
+When cycle ends, it stops.
+
+When overloaded, shows error.
+
+Identity:
+
+Serial No: WM12345
+
+Responsibility:
+
+Should clean clothes properly.
+
+Should save water.
+
+Should complete cycle on time.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8. Object Name: Pen
+
+State:
+
+Brand: Reynolds
+
+Ink Color: Blue
+
+Type: Ballpoint
+
+Length: 14cm
+
+Price: ₹10
+
+Batch No: PEN123
+
+Behavior:
+
+When used, it writes on paper.
+
+When ink finishes, it stops writing.
+
+When cap is closed, it protects tip.
+
+Identity:
+
+Batch No: PEN123
+
+Responsibility:
+
+Should write smoothly.
+
+Should not leak ink.
+
+Should last long.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9. Object Name: Television
+
+State:
+
+Brand: Sony
+
+Size: 42 inch
+
+Resolution: Full HD
+
+Type: LED
+
+Power: 220V
+
+Serial No: TV12345
+
+Behavior:
+
+When turned on, it displays channels.
+
+When volume increased, sound increases.
+
+When remote used, it responds.
+
+Identity:
+
+Serial No: TV12345
+
+Responsibility:
+
+Should display clear picture.
+
+Should provide good sound.
+
+Should respond quickly.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10. Object Name: Air Conditioner
+
+State:
+
+Brand: Daikin
+
+Capacity: 1.5 Ton
+
+Mode: Cooling
+
+Temperature: 24°C
+
+Power: 230V
+
+Serial No: AC12345
+
+Behavior:
+
+When switched on, it cools room.
+
+When temp reduced, cooling increases.
+
+When switched off, it stops.
+
+Identity:
+
+Serial No: AC12345
+
+Responsibility:
+
+Should cool efficiently.
+
+Should maintain temperature.
+
+Should consume less electricity.
