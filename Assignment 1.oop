@@ -1,0 +1,231 @@
+1) Student Management System
+Student (All Attributes)
+Name
+Age
+Gender
+Address
+Mobile number
+Email
+Blood group
+Marks
+Attendance
+Parent details
+Hobbies
+Aadhaar number
+
+
+Student Portal System (Selected Attributes)
+Name
+Age
+Gender
+Marks
+Attendance
+Email
+
+ ** Address, hobbies, Aadhaar, blood group +++++++++++++++++++++++    ignored as not required
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Bank System
+Customer (All Attributes)
+Name
+Age
+Address
+Mobile number
+Email
+Account number
+Balance
+IFSC code
+Aadhaar number
+PAN number
+Occupation
+
+
+Banking App (Selected Attributes)
+Name
+Account number
+Balance
+IFSC code
+
+**  PAN, Aadhaar, occupation  +++++++++++++++++++++++++++++++  ignored
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) Online Shopping System
+User (All Attributes)
+Name
+Email
+Address
+Mobile number
+Payment details
+Order history
+Wishlist
+Password
+Reviews
+
+
+Shopping App (Selected Attributes)
+Name
+Email
+Address
+Order history
+Wishlist
+
+** Payment details, password   +++++++++++++++++++   hidden/ignored  for security
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4) Library Management System
+Book (All Attributes)
+Book name
+Author
+Publisher
+Price
+ISBN
+Pages
+Language
+Edition
+Shelf number
+
+
+Library System (Selected Attributes)
+Book name
+Author
+ISBN
+Availability
+
+** Price, pages, edition  ++++++++++++++++++++++++ ignored
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5) Hospital System
+Patient (All Attributes)
+Name
+Age
+Gender
+Address
+Mobile number
+Blood group
+Disease
+Medical history
+Insurance details
+Aadhaar number
+
+
+Hospital Dashboard (Selected Attributes)
+Name
+Age
+Gender
+Disease
+Blood group
+Medical history
+
+** Insurance, Aadhaar +++++++++++++++++++  ignored
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6) College System
+Student (All Attributes)
+Name
+Roll number
+Address
+Mobile number
+Email
+Marks
+Attendance
+Fees
+Parent details
+
+
+College Portal (Selected Attributes)
+Name
+Roll number
+Marks
+Attendance
+Fees
+
+** Parent details, address   +++++++++++++++++++     ignored
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7) ATM Machine
+Account (All Attributes)
+Account number
+Name
+Balance
+PIN
+Transaction history
+IFSC code
+
+
+ATM Interface (Selected Attributes)
+Account number
+Balance
+PIN
+
+** Transaction history, IFSC ++++++++++++++++++++++++++    ignored for safety
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8) Food Delivery App
+User (All Attributes)
+Name
+Address
+Mobile number
+Email
+Payment details
+Order history
+Preferences
+
+
+App Interface (Selected Attributes)
+Name
+Address
+Order history
+
+👉 Payment details +++++++++++++++++++++++  ignored
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9) Employee System
+Employee (All Attributes)
+Name
+ID
+Address
+Salary
+Department
+Performance
+Attendance
+Bank details
+
+
+HR Dashboard (Selected Attributes)
+Name
+ID
+Department
+Salary
+Attendance
+
+**  Bank details  +++++++++++++++++++++++++++++++++    ignored
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10) Travel Booking System
+User (All Attributes)
+Name
+Email
+Mobile number
+Address
+Passport number
+Payment details
+Booking history
+
+
+Booking App (Selected Attributes)
+Name
+Email
+Booking history
+
+** Passport, payment details ++++++++++++++++++++++++++++++++++ ignored
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
