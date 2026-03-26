@@ -1,0 +1,191 @@
+1) Student
+Student
+
+[STATE]
+
+name: string
+rollNumber: int
+marks: double
+attendance: double
+address: string
+
+[BEHAVIOUR]
+
+getMarks();
+setMarks();
+calculateGrade();
+getAttendance();
+
+_______________________________________________________________________
+
+
+2) Employee
+Employee
+
+[STATE]
+
+employeeId: int
+name: string
+salary: double
+department: string
+designation: string
+
+[BEHAVIOUR]
+
+getSalary();
+setSalary();
+calculateBonus();
+promoteEmployee();
+
+_______________________________________________________________________
+
+3) ATM Machine
+ATM
+
+[STATE]
+
+accountNumber: int
+pin: int
+balance: double
+
+[BEHAVIOUR]
+
+withdraw();
+deposit();
+checkBalance();
+changePin();
+
+
+_______________________________________________________________________
+
+4) Mobile Phone
+Mobile
+
+[STATE]
+
+brand: string
+model: string
+imeiNumber: int
+batteryLevel: int
+
+[BEHAVIOUR] 
+
+makeCall();
+chargeBattery();
+getBatteryStatus();
+lockPhone();
+
+_______________________________________________________________________
+
+5) Car
+Car
+
+[STATE]
+
+brand: string
+speed: int
+fuelLevel: double
+engineStatus: Boolean
+
+[BEHAVIOUR]
+
+startCar();
+stopCar();
+accelerate();
+brake();
+
+_______________________________________________________________________
+
+6) Library Book
+Book
+
+[STATE]
+
+bookId: int
+title: string
+author: string
+availability: Boolean
+
+[BEHAVIOUR]
+
+issueBook();
+returnBook();
+checkAvailability()
+
+_______________________________________________________________________
+
+7) Hospital Patient
+Patient
+
+[STATE]
+
+patientId: int
+name: string
+age: int
+disease: string
+medicalHistory: string
+
+[BEHAVIOUR]
+
+getDetails();
+updateMedicalHistory();
+assignDoctor();
+
+_______________________________________________________________________
+
+8) Online Shopping Account
+UserAccount
+
+[SAMPLE]
+
+userId: int
+name: string
+email: string
+password: string
+address: string
+
+[BEHAVIOUR]
+
+login();
+logout();
+updateProfile();
+placeOrder();
+
+_______________________________________________________________________
+
+9) Bank Locker
+Locker
+
+[STATE]
+
+lockerId: int
+ownerName: string
+pin: int
+contents: string
+
+[BEHAVIOUR]
+
+openLocker();
+closeLocker();
+changePin();
+
+_______________________________________________________________________
+
+10) Laptop
+Laptop
+
+[STATE]
+
+brand: string
+ram: int
+storage: int
+batteryLevel: int
+
+[BEHAVIOUR]
+
+powerOn();
+powerOff();
+charge();
+checkBattery();
+
+_______________________________________________________________________
